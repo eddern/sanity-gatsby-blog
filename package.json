@@ -16,8 +16,5 @@
   "devDependencies": {
     "@sanity/cli": "^0.142.7",
     "lerna": "^3.13.1"
-  },
-  "dependencies": {
-    "firebase": "^7.2.2"
   }
 }
