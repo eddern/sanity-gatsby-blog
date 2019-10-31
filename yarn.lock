@@ -737,8 +737,9 @@
     universal-user-agent "^4.0.0"
 
 "@sanity/cli@^0.142.7":
-  version "0.142.7"
-  resolved "https://registry.npmjs.org/@sanity/cli/-/cli-0.142.7.tgz#888d1c9e36f0e4ef8d03fe80cfa855159c55fee8"
+  version "0.142.9"
+  resolved "https://registry.yarnpkg.com/@sanity/cli/-/cli-0.142.9.tgz#279cadb373282423a479cf118bf43f8ae92f9288"
+  integrity sha512-f7A9FlgaIKw3E5HOkQrC2PlTnPx9ovJSAug+lcFxhGetopiaKTc9g50XmW4bLl3o4CKDBiKnvS3h6JxfhPP6bQ==
 
 "@types/events@*":
   version "3.0.0"
